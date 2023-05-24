@@ -4,7 +4,7 @@
 /*                                            CONFIGURATION                                                  */
 /*===========================================================================================================*/
 /* replace false with true to switch from debug to production mode */
-$config['debug'] = true;
+$config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
 $config['default_white_page'] = '   https://www.ellawhite.eu.org/';
