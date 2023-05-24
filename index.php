@@ -32,7 +32,7 @@ $config['allowed_country_code'] = 'ID';
 $config['blocked_country_code'] = '';
 
 /* replace false with true to switch from single offer page to mutiple offer page on selected country */
-$config['multiple_offer_page'] = false;
+$config['multiple_offer_page'] = true;
 
 /* Data offer page on every country (active when $config['multiple_offer_page'] = true;) */
 /* For example, if you enter 'ID;id.php|US;us.php' in the next line,
